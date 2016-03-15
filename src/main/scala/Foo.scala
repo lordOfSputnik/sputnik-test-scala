@@ -23,6 +23,6 @@ object Foo {
   }
 
   def magicNumberBadPractise: Unit = {
-    var foo = 4345
+    var foo = 434
   }
 }
